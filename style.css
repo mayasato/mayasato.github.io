@@ -1,0 +1,407 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: white;
+	font-family: avenir;
+}
+
+
+#container {
+background-color: white;
+	max-width: 15000px;
+	margin: 0 auto;
+}
+
+nav{
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+	
+}
+nav li{
+		
+    display:inline;
+	
+}
+nav a{
+	background-color: white;
+    display:inline-block;
+    padding:5px;
+}
+
+li {
+    position: relative;
+	
+}
+
+nav li a {
+	
+	text-align:center;
+    line-height: 2em;
+ 	padding: 0 2.6em;
+	text-decoration: none;
+	font-family: avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+
+li a:link {
+	color: #0b0638;
+}
+
+li a:hover, .topMenu > li:hover > a {
+	background-color: white;
+color: #E94f47;
+}
+
+.current, a:hover.current, .topMenu li:hover a.current {
+background-color:white;
+color: #0b0638;
+cursor: default;
+}
+
+a:visited {
+	color: #0b0638;
+	}
+
+.topMenu li:hover ul {
+    left: 0;
+	margin: 0 auto;
+	max-width: 1500px;
+}
+
+.subMenu {
+    float: none;
+	background: #FFFFF;
+    width: auto;
+    height: auto;
+	position:absolute;
+    top: 2em;
+	left: -9000em;
+}
+
+.subMenu li {
+    float: none;
+}
+
+.subMenu li a {
+    border-bottom: 1px solid CCCCCC;
+    padding: .2em 1em;
+    white-space: nowrap;
+}
+
+.subMenu li:last-child a {
+    border-bottom: none;
+}
+
+.subMenu li a:hover {
+    background: #FFFFFF;
+    height: 2em;
+    padding-top: .2em;
+    top: 0;
+    border-radius:0;
+}
+
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+/*For IE 6/7 (trigger has layout) */
+.cf {
+    zoom:1;
+}
+
+.homesection {
+	background-color: white;
+	float: none;
+	text-align: center;
+	margin: 10% auto 2%;
+	padding: 5%;
+	width: 40%;
+	border-style: double;
+}
+
+.homeaside {
+	background-color: #FFF4EF;
+	float: none;
+	text-align: center;
+	font-size: 85%;
+	margin: auto;
+	padding: 1%;
+	line-height: 1.4;
+	width: 35%;
+}
+
+.homeaside a {
+	text-decoration: none;
+	color: #E94f47;
+}
+
+.homefooter {
+	background-image:url(images/homefooter.gif);
+	position:absolute;
+   bottom:0;
+   width:100%;
+	height: 200px;
+	}
+
+
+.aboutsection {
+	background-color: white;
+	float: left;
+	text-align: center;
+	font-size: 15px;
+	margin-left: 8%;
+	margin-top: 5%;
+	padding: 4%;
+	width: 40%;
+	border-style: double;
+}
+
+.aboutaside {
+	background-color: #FFF4EF;
+	float: right;
+	font-size: 85%;
+	margin-right: 5%;
+	margin-top: 5%;
+	padding: 3% 3% 2% 5%;
+	line-height: 1.4;
+	width: 25%;
+}
+
+#services {
+	background-color: #FFF4EF;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+ol li {
+	background-color: #FFF4EF;
+	float: none;
+	list-style:circle;
+}
+
+.aboutfooter {
+	background-image:url(images/aboutfooter.gif);
+	position:absolute;
+   bottom:0;
+   width:100%;
+	height: 200px;
+	}
+
+.contactfooter {
+	background-image:url(images/contactfooter.gif);
+	position:absolute;
+   bottom:0;
+   width:100%;
+	height: 200px;
+}
+
+.contactsection {
+	background-color:white;
+	float: none;
+	text-align: center;
+	margin: 10% auto 2%;
+	padding: 5%;
+	width: 40%;
+	border-style: double;
+}
+
+.contactaside {
+	background-color: #FFF4EF;
+	float: none;
+	text-align: center;
+	font-size: 85%;
+	margin: auto;
+	padding: 1%;
+	line-height: 1.4;
+	width: 35%;
+}
+
+
+.portfoliofooter {
+	background-image:url(images/portfoliofooter.gif);
+	position:absolute;
+   bottom:0;
+   width:100%;
+	height: 200px;
+}
+
+
+.img img {
+    width: 100%;
+    height: auto;
+	margin: 5%;
+}
+  
+.img {
+	  margin: 3%;
+    border: 1px;
+    float: left;
+    width: 180px;
+
+  }   
+  
+  #resume {
+	color: #30496E;
+  text-align: left;
+  font-family: avenir, Avant Garde, Century Gothic, AppleGothic, sans-serif;
+  font-size: 16px;
+}
+
+.resume {
+	width: 90%;
+	margin: 0 auto;
+	padding: 2%;
+}
+
+.resume ol li {
+	float: none;
+	padding: 5px;
+	list-style: circle;
+	list-style-position:inside;
+	background-color:white;
+}
+
+header {
+	background-color:white;
+	text-align: center;
+	font-size: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #0b0638;
+	font-size: 60px; 
+	background-color: white;
+	border-style: double;
+	border-color: #FFF4EF;
+	margin: auto;
+	width: 70%;
+	
+}
+
+h2 {
+	font-size: 18px;
+	font-weight:100;
+	text-align: center;
+	background-color: white;
+}
+
+h3 {
+	background-color:#FFF4EF;
+	height:24px;
+	text-indent: 5em;
+	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#E94f47;
+	font-size: 16px;
+	border-style: double; 
+	border-color: white;
+}
+
+blockquote {
+
+	padding: 1%;
+	background-color:white;
+}
+
+.boldtext {
+
+	font-size:20px;
+}
+
+.italictext {
+	font-style: italic;
+}
+
+
+section#education {
+	
+	text-align:left;
+	background-color:white;
+}
+
+section#experience {
+	
+	text-align:left;
+	list-style:inside;
+	background-color:white;
+
+}
+
+section#skills {
+	
+	text-align:left;
+	background-color:white;
+}
+
+.footer {
+	background-image:url(images/resumefooter.gif);
+	height: 150px;
+	position:realtive;
+	color: #0b0638;
+	text-align: center;
+	font-family: Futura, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+
+figcaption {
+	margin-left: 5%;
+	}
+
+.portfoliogallery {
+	width: 80%;
+	margin: 2% auto;
+	}
+
+.ink {
+  display: flex;
+  align-items: center;
+  justify-content: center }
+
+.butsudan {
+  display: flex;
+  align-items: center;
+  justify-content: center }
+
+.graphicdesign {
+	position: relative;
+	height: 500px;
+}
+	
+.ink1 {
+  width: 50%;
+  height: 50%;
+  overlfow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.studioart {
+	position: relative;
+	height: auto;
+	}
+	
+.butsudan1 {
+	margin: 2%;
+    border: 1px;
+    float: left;
+    width: auto;}
+
+.butsudan1 img {
+width: 100%;
+    height: auto;
+	margin: 5%;
+}
+
+
