@@ -237,18 +237,12 @@ ol li {
 	height: 200px;
 }
 
- .img img {
-    width:200px;
-    height: 200px;
-	margin: 5%;
-	overflow:hidden;
-}
 .img {
 	  position: relative;
     float: left;
     width:  200px;
     height: 200px;
-    overflow:hidden;
+    margin: 1%;
 
   } 
   
