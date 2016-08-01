@@ -248,8 +248,7 @@ ol li {
     float: left;
     width:  200px;
     height: 200px;
-  position: 50% 50%;
-   size:     cover;
+    overflow:hidden;
 
   } 
   
