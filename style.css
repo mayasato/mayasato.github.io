@@ -174,9 +174,9 @@ a:visited {
 }
 
 .propic img {
-	margin:5%;
+	margin:5% 5% auto 1%;
 	height: auto;
-	width: 25%;
+	width: 200px;
 }
 
 #services {
