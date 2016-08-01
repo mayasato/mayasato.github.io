@@ -228,7 +228,11 @@ ol li {
 	width: 35%;
 }
 
-
+.portfoliogallery {
+	width: 80%;
+	margin: 2%;
+	}
+	
 .portfoliofooter {
 	background-image:url()
 	position:absolute;
@@ -238,13 +242,16 @@ ol li {
 }
 
 .img {
-	  position: relative;
-    float: left;
     width:  200px;
     height: 200px;
     margin: 1%;
-
-  } 
+    overflow:hidden;
+  }
+  
+  .img img {
+  	height: auto;
+ width: 200px;
+  }
   
   #resume {
 	color: #30496E;
@@ -350,11 +357,6 @@ section#skills {
 
 figcaption {
 	margin-left: 5%;
-	}
-
-.portfoliogallery {
-	width: 80%;
-	margin: 2% auto;
 	}
 
 .ink {
