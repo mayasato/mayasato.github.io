@@ -159,16 +159,16 @@ a:visited {
 	float: left;
 	text-align: center;
 	font-size: 15px;
-	margin: 5% 3% auto 3%;
+	margin: 5% 1% auto 4%;
 	width: 40%;
 }
 
 .aboutaside {
 	background-color: #FFF4EF;
-	float: right;
+	float: left;
 	font-size: 85%;
-	margin: 5% 3% auto 3%;
-	padding: 2%;
+	margin: 5% 1% auto 4%;
+	padding: 3%;
 	line-height: 1.4;
 	width: 25%;
 }
