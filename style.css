@@ -237,20 +237,6 @@ ol li {
 	height: 200px;
 }
 
-
-.img img {
-    width:200px;
-    height: auto;
-	margin: 5%;
-}
-  
-.img {
-	  margin: 3%;
-    border: 1px;
-    float: left;
-    width: 200px;
-
-  }   
   
   #resume {
 	color: #30496E;
