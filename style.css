@@ -230,7 +230,8 @@ ol li {
 
 .portfoliogallery {
 	width: 80%;
-	margin: auto;
+	margin-left:2%;
+    margin-top:3%;
 	}
 	
 .portfoliofooter {
@@ -246,8 +247,7 @@ ol li {
 	float: left;
     width:  200px;
     height: 200px;
-    margin-left:2%;
-    margin-top:3%;
+    
     overflow:hidden;
   }
   
