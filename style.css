@@ -159,7 +159,7 @@ a:visited {
 	float: left;
 	text-align: center;
 	font-size: 15px;
-	margin: 5% 1% auto 4%;
+	margin: 5% 1% auto 8%;
 	width: 40%;
 }
 
@@ -167,7 +167,7 @@ a:visited {
 	background-color: #FFF4EF;
 	float: left;
 	font-size: 85%;
-	margin: 5% 1% auto 4%;
+	margin: 5% 1% auto 8%;
 	padding: 2.5%;
 	line-height: 1.4;
 	width: 25%;
@@ -175,7 +175,7 @@ a:visited {
 
 .propic img {
 	float: right;
-	margin:5% 5% auto 1%;
+	margin:5% 8% auto 1%;
 	height: auto;
 	width: 25%;
 }
