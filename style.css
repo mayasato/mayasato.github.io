@@ -174,7 +174,9 @@ a:visited {
 }
 
 .propic {
-	margin: 5% 5% auto 2%;
+	margin-top:5%;
+	margin-right: 5%;
+	padding: 2%;
 	float: right;
 	height: auto;
 	width: 30%;
