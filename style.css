@@ -403,4 +403,7 @@ width: 100%;
 	margin: 5%;
 }
 
-
+.vegprints {
+	position: relative;
+	height: auto;
+}
