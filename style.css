@@ -176,6 +176,12 @@ a:visited {
 	width: 25%;
 }
 
+.propic {
+	float: right;
+	margin: 2%;
+	width: 10%;
+}
+
 #services {
 	background-color: #FFF4EF;
 	margin-top: 25px;
