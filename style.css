@@ -404,8 +404,9 @@ width: 100%;
 }
 
 .vegprints {
+	float:left;
 	position: relative;
 	height: 500px;
 	width:auto;
-	margin: auto;
+	margin: 5% auto auto 8%;
 }
