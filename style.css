@@ -402,9 +402,9 @@ width: 100%;
 	margin: 5%;
 }
 
-.vegprints, .vegprints2 {
+.vegprints {
 	display: inline-block;
-    margin: 5% 40px 0 5%;
+    margin: 0 40px 0 0;
 	float:left;
 	position: relative;
 }
