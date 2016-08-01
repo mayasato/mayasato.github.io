@@ -345,7 +345,7 @@ section#skills {
 }
 
 .footer {
-	background-image:url(images/resumefooter.gif);
+	background-image:url(images/resumefooter.gif)
 	height: 150px;
 	position:realtive;
 	color: #0b0638;
