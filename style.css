@@ -402,14 +402,14 @@ width: 100%;
 	margin: 5%;
 }
 
-.vegprints img {
+.vegprints, .vegprints2 {
 	float:left;
 	position: relative;
 	content: center;
 	margin: 5% auto;
 }
 
-.futuratype {
+.futuratype, .futuratype2 {
 	position: relative;
 	height: auto;
 	float: left;
