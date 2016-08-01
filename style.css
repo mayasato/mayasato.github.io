@@ -239,7 +239,7 @@ ol li {
 
  .img img {
     width:200px;
-    height: auto;
+    height: 200px;
 	margin: 5%;
 }
 .img {
@@ -247,6 +247,7 @@ ol li {
     border: 1px;
     float: left;
     width: 200px;
+    height: 200px;
 
   } 
   
