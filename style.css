@@ -411,3 +411,16 @@ width: 100%;
 	width:auto;
 	margin: 5% auto;
 }
+
+.futuratype {
+	position: relative;
+	height: auto;
+}
+
+.futuratype2 img {
+	margin: 2%;
+    border: 1px;
+    float: left;
+    width: 100%;
+    height: auto;
+}
