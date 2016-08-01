@@ -159,8 +159,7 @@ a:visited {
 	float: left;
 	text-align: center;
 	font-size: 15px;
-	margin-left: 8%;
-	margin-top: 5%;
+	margin: 5% 3% auto 8%;
 	width: 40%;
 }
 
@@ -179,7 +178,7 @@ a:visited {
 	margin-right: 1%;
 	float: right;
 	height: auto;
-	width: 50%;
+	width: 40%;
 }
 
 #services {
