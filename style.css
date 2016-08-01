@@ -406,6 +406,8 @@ width: 100%;
 	float:left;
 	position: relative;
 	margin: 5% auto auto 5%;
+	height:auto;
+	width:100%;
 }
 
 .futuratype, .futuratype2 {
