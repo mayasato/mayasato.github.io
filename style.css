@@ -405,13 +405,11 @@ width: 100%;
 .vegprints, .vegprints2 {
 	float:left;
 	position: relative;
-	content: center;
-	margin: 5% auto;
+	margin: 5% auto auto 5%;
 }
 
 .futuratype, .futuratype2 {
 	position: relative;
-	height: auto;
 	float: left;
 	margin: 5% auto auto 5%;
 }
