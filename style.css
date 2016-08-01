@@ -403,7 +403,9 @@ width: 100%;
 	margin: 5%;
 }
 
-.vegprints {
+.vegprints img {
 	position: relative;
-	height: auto;
+	width: 100%;
+    height: auto;
+	margin: 5%;
 }
