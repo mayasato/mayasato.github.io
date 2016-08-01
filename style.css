@@ -177,9 +177,10 @@ a:visited {
 }
 
 .propic {
+	margin-right: 1%;
 	float: right;
 	height: auto;
-	width: 100%;
+	width: 50%;
 }
 
 #services {
