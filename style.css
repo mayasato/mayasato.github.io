@@ -368,9 +368,9 @@ figcaption {
 
 
 .butsudan {
-  display: inline;
+  display: inline-block;
   white-space: nowrap;
-  margin: 5% auto 2% 5%;
+  margin: 5% auto 2% auto;
  }
 
 .inkcollage {
