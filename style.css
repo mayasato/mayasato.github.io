@@ -366,14 +366,11 @@ figcaption {
   align-items: center;
   justify-content: center }
 
-#butsudan {
-	margin: 5% auto 2% auto;
-}
 
 .butsudan {
   display: inline;
-  whitespace: nowrap;
-  margin: auto;
+  white-space: nowrap;
+  margin: 5% auto 2% 5%;
  }
 
 .inkcollage {
@@ -393,7 +390,7 @@ figcaption {
 .vegprints {
 	display: inline-block;
 	white-space:nowrap;
-	margin: 5% auto 1% 5%;
+	margin: 5% auto 2% 5%;
 }
 
 .futuratype, .futuratype2 {
