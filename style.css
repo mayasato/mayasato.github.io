@@ -1,5 +1,41 @@
 @charset "UTF-8";
 /* CSS Document */
+/* use for submenu:
+
+.subMenu {
+    float: none;
+	background: #FFFFF;
+    width: auto;
+    height: auto;
+	position:absolute;
+    top: 2em;
+	left: -9000em;
+}
+
+.subMenu li {
+    float: none;
+}
+
+.subMenu li a {
+    border-bottom: 1px solid CCCCCC;
+    padding: .2em 1em;
+    white-space: nowrap;
+}
+
+.subMenu li:last-child a {
+    border-bottom: none;
+}
+
+.subMenu li a:hover {
+    background: #FFFFFF;
+    height: 2em;
+    padding-top: .2em;
+    top: 0;
+    border-radius:0;
+}
+
+*/
+
 * {
 	margin: 0;
 	padding: 0;
@@ -48,6 +84,7 @@ nav li a {
 	text-decoration: none;
 	font-family: avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 18px;
+	color:#0b0638;
 }
 
 li a:link {
@@ -73,38 +110,6 @@ a:visited {
     left: 0;
 	margin: 0 auto;
 	max-width: 1500px;
-}
-
-.subMenu {
-    float: none;
-	background: #FFFFF;
-    width: auto;
-    height: auto;
-	position:absolute;
-    top: 2em;
-	left: -9000em;
-}
-
-.subMenu li {
-    float: none;
-}
-
-.subMenu li a {
-    border-bottom: 1px solid CCCCCC;
-    padding: .2em 1em;
-    white-space: nowrap;
-}
-
-.subMenu li:last-child a {
-    border-bottom: none;
-}
-
-.subMenu li a:hover {
-    background: #FFFFFF;
-    height: 2em;
-    padding-top: .2em;
-    top: 0;
-    border-radius:0;
 }
 
 .cf:before,
@@ -161,6 +166,11 @@ a:visited {
 	font-size: 15px;
 	margin: 5% 1% auto 8%;
 	width: 40%;
+}
+
+.aboutsection a {
+	text-decoration: none;
+	color: #E94f47;
 }
 
 .aboutaside {
