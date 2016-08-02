@@ -382,7 +382,6 @@ figcaption {
 
 .butsudan, .vegprints, .futuratype, .futuratype2, .tsod {
 	display: inline-block;
-	white-space:nowrap;
 	margin: 5%;
 	padding: 20px;
 }
