@@ -366,14 +366,6 @@ figcaption {
   align-items: center;
   justify-content: center }
 
-
-.butsudan {
-  display: inline-block;
-  white-space: nowrap;
-  margin: 5%;
-  padding:20px;
- }
-
 .inkcollage {
 	position: relative;
 	height: 500px;
@@ -388,9 +380,9 @@ figcaption {
   top: 0; left: 0; bottom: 0; right: 0;
 }
 
-.vegprints, .futuratype, .futuratype2, .tsod {
+.butsudan, .vegprints, .futuratype, .futuratype2, .tsod {
 	display: inline-block;
-
+	white-space:nowrap;
 	margin: 5%;
 	padding: 20px;
 }
