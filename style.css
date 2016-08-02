@@ -364,9 +364,9 @@ figcaption {
 .inkcollage, .safeandeffective {
 	position: absolute;
 	width: 50%;
-	height: 35%;
+	height: 30%;
   	margin: auto;
-  	top: 0; left: 0; bottom: 0; right: 0;
+  	top: 0; left: 0; bottom: 20px; right: 0;
 }
 
 .butsudan, .vegprints, .futuratype, .tsod {
