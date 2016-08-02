@@ -364,10 +364,8 @@ figcaption {
 .inkcollage, .safeandeffective {
 	position: relative;
 	width: 50%;
-	height: 50%;
-  	overlfow: auto;
+	height: 25%;
   	margin: auto;
-  	position: absolute;
   	top: 0; left: 0; bottom: 0; right: 0;
 }
 
