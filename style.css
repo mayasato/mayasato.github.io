@@ -367,9 +367,9 @@ figcaption {
   justify-content: center }
 
 .butsudan {
-  display: flex;
-  align-items: center;
-  justify-content: center }
+  display: inline;
+  margin: 5% auto 2% 5%;
+ }
 
 .inkcollage {
 	position: relative;
@@ -383,23 +383,6 @@ figcaption {
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
-}
-
-.butsudan {
-	position: relative;
-	height: auto;
-	}
-	
-.butsudan1 {
-	margin: 2%;
-    border: 1px;
-    float: left;
-    width: auto;}
-
-.butsudan1 img {
-width: 100%;
-    height: auto;
-	margin: 5%;
 }
 
 .vegprints {
