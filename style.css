@@ -361,7 +361,7 @@ figcaption {
 	margin-left: 5%;
 	}
 
-.inkcollage, .safeandeffective {
+.inkcollage, .safeandeffective, .popcorn, .cupandsaucer {
 	position: absolute;
 	width: 50%;
 	height: 50%;
@@ -369,7 +369,7 @@ figcaption {
   	top: 5%; left: 0; bottom: 5%; right: 0;
 }
 
-.butsudan, .vegprints, .futuratype, .tsod {
+.butsudan, .vegprints, .futuratype, .tsod, .editions {
 	display: inline-block;
 	margin: 5% 1% 5% 5%;
 	padding: 20px 5px 20px 20px;
