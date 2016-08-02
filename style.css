@@ -361,23 +361,14 @@ figcaption {
 	margin-left: 5%;
 	}
 
-.ink {
-  display: flex;
-  align-items: center;
-  justify-content: center }
-
-.inkcollage {
+.inkcollage, .safeandeffective {
 	position: relative;
-	height: 500px;
-}
-	
-.ink1 {
-  width: 50%;
-  height: 50%;
-  overlfow: auto;
-  margin: auto;
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+	width: 50%;
+	height: 50%;
+  	overlfow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
 }
 
 .butsudan, .vegprints, .futuratype, .tsod {
