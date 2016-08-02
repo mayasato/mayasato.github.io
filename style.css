@@ -371,6 +371,7 @@ figcaption {
   display: inline-block;
   white-space: nowrap;
   margin: 5%;
+  padding:20px;
  }
 
 .inkcollage {
@@ -390,7 +391,8 @@ figcaption {
 .vegprints {
 	display: inline-block;
 	white-space:nowrap;
-	margin: 5% auto 2% 5%;
+	margin: 5%;
+	padding: 20px;
 }
 
 .futuratype, .futuratype2 {
