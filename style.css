@@ -366,9 +366,13 @@ figcaption {
   align-items: center;
   justify-content: center }
 
+#butsudan {
+	margin: 5% auto 2% auto;
+}
+
 .butsudan {
   display: inline;
-  margin: 5% auto 2% 5%;
+  margin: 0 40px 0 0;
  }
 
 .inkcollage {
