@@ -365,6 +365,7 @@ figcaption {
 	position: absolute;
 	width: 50%;
 	height: 50%;
+	margin: auto;
   	top: 5%; left: 0; bottom: 5%; right: 0;
 }
 
