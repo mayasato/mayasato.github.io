@@ -404,8 +404,10 @@ width: 100%;
 
 .vegprints {
 	display: inline;
+	white-space:nowrap;
 }
 
 .futuratype, .futuratype2 {
 	display: inline-block;
+	white-space:nowrap;
 }
