@@ -125,6 +125,14 @@ a:visited {
     zoom:1;
 }
 
+.next {
+	float:right;
+}
+
+.previous {
+	float:left;
+}
+
 .homesection {
 	background-color: white;
 	float: none;
