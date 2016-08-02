@@ -369,7 +369,7 @@ figcaption {
   	top: 5%; left: 0; bottom: 5%; right: 0;
 }
 
-.butsudan, .vegprints, .futuratype, .tsod, .editions {
+.butsudan, .vegprints, .futuratype, .tsod, .editions, .rlr {
 	display: inline-block;
 	margin: 5% 1% 5% 5%;
 	padding: 20px 5px 20px 20px;
