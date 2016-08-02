@@ -403,8 +403,9 @@ width: 100%;
 }
 
 .vegprints {
-	display: inline;
+	display: inline-block;
 	white-space:nowrap;
+	margin: 5% auto;
 }
 
 .futuratype, .futuratype2 {
