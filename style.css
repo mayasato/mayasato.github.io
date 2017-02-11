@@ -138,7 +138,7 @@ a:visited {
 .homesection {
 	background-color: white;
 	float: none;
-	text-align: center;
+	text-align: left;
 	margin: 10% auto 2%;
 	padding: 5%;
 	width: 40%;
@@ -172,7 +172,7 @@ a:visited {
 .aboutsection {
 	background-color: white;
 	float: left;
-	text-align: center;
+	text-align: left;
 	font-size: 15px;
 	margin: 5% 1% auto 8%;
 	width: 40%;
