@@ -398,3 +398,7 @@ figcaption {
 	margin: 5% 1% 5% 5%;
 	padding: 20px 5px 20px 20px;
 }
+
+footer {
+	text-align: center;
+}
