@@ -42,6 +42,18 @@
   	top: 5%; left: 0; bottom: 5%; right: 0;
 }
 
+h1 {
+	text-align: center;
+	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #0b0638;
+	font-size: 60px; 
+	background-color: white;
+	border-color: #FFF4EF;
+	margin: auto;
+	width: 70%;
+	
+}
+
 */
 
 * {
@@ -310,31 +322,19 @@ ol li {
 	background-color:white;
 }
 
-h1 {
-	text-align: center;
-	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #0b0638;
-	font-size: 60px; 
-	background-color: white;
-	border-color: #FFF4EF;
-	margin: auto;
-	width: 70%;
-	
-}
-
 h2 {
 	font-size: 18px;
 	font-weight:100;
-	text-align: center;
+	text-align: left;
 	background-color: white;
 }
 
 h3 {
-	background-color:#FFF4EF;
+	background-color:#D3D3D3;
 	height:24px;
 	text-indent: 5em;
 	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color:#E94f47;
+	color:#0b0638;
 	font-size: 16px;
 	border-color: white;
 }
