@@ -54,6 +54,16 @@ h1 {
 	
 }
 
+.footer {
+	background-image:url()
+	height: 150px;
+	position:realtive;
+	color: #0b0638;
+	text-align: center;
+	font-family: Futura, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}
+
 */
 
 * {
@@ -330,9 +340,8 @@ h2 {
 }
 
 h3 {
-	background-color:#D3D3D3;
-	height:24px;
-	text-indent: 5em;
+	background-color:white;
+	height:30px;
 	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color:#0b0638;
 	font-size: 16px;
@@ -358,12 +367,14 @@ blockquote {
 section#education {
 	
 	text-align:left;
+	text-indent:2em;
 	background-color:white;
 }
 
 section#experience {
 	
 	text-align:left;
+	text-indent: 2em;
 	list-style:inside;
 	background-color:white;
 
@@ -373,16 +384,7 @@ section#skills {
 	
 	text-align:left;
 	background-color:white;
-}
-
-.footer {
-	background-image:url()
-	height: 150px;
-	position:realtive;
-	color: #0b0638;
-	text-align: center;
-	font-family: Futura, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
+	text-indent: 2em;
 }
 
 figcaption {
