@@ -34,6 +34,14 @@
     border-radius:0;
 }
 
+.inkcollage, .safeandeffective, .popcorn, .cupandsaucer {
+	position: absolute;
+	width: 50%;
+	height: 50%;
+	margin: 5% auto 3% auto;
+  	top: 5%; left: 0; bottom: 5%; right: 0;
+}
+
 */
 
 * {
@@ -381,15 +389,8 @@ figcaption {
 	margin-left: 5%;
 	}
 
-.inkcollage, .safeandeffective, .popcorn, .cupandsaucer {
-	position: absolute;
-	width: 50%;
-	height: 50%;
-	margin: 5% auto 3% auto;
-  	top: 5%; left: 0; bottom: 5%; right: 0;
-}
 
-.atreefalls, .butsudan, .vegprints, .futuratype, .tsod, .editions, .rlr {
+.inkcollage, .popcorn, .cupandsaucer, .atreefalls, .butsudan, .vegprints, .futuratype, .tsod, .editions, .rlr {
 	display: inline-block;
 	margin: 5% 1% 5% 5%;
 	padding: 20px 5px 20px 20px;
