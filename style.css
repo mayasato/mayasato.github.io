@@ -139,9 +139,15 @@ color: #0b0638;
 cursor: default;
 }
 
-a:visited {
+a:visited, a {
+	background-color:white;
 	color: #0b0638;
+	cursor: default;
+	text-decoration: none;
 	}
+a:hover {
+	color: #E94f47;
+}
 
 .topMenu li:hover ul {
     left: 0;
