@@ -212,7 +212,7 @@ a:visited {
 	text-align: left;
 	font-size: 14px;
 	margin: 5%;
-	width: 40%;
+	width: 80%;
 }
 
 .propic img {
@@ -344,6 +344,10 @@ blockquote {
 	padding: 1%;
 	text-indent: 2em;
 	background-color:white;
+}
+
+p {
+	padding: 2em;
 }
 
 .boldtext {
