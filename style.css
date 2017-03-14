@@ -370,7 +370,7 @@ blockquote {
 }
 
 
-section#education, section#skills, section#experience, section#group, section#conference {
+section#education, section#skills, section#experience, section#group, section#conference section#freelance {
 	
 	text-align:left;
 	list-style:inside;
