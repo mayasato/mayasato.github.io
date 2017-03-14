@@ -372,7 +372,6 @@ blockquote {
 section#education, section#skills, section#experience, section#group, section#conference {
 	
 	text-align:left;
-	text-indent:2em;
 	list-style:inside;
 	background-color:white;
 }
