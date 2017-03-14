@@ -308,6 +308,15 @@ a:visited {
 ol li {
 	float: none;
 	padding: 5px;
+	font-size: 16px;
+	list-style: none;
+	list-style-position:inside;
+	background-color:white;
+}
+
+section#experience, section#freelance ol il {
+	float: none;
+	padding: 5px;
 	font-size: 14px;
 	list-style: none;
 	list-style-position:inside;
