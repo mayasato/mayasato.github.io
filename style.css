@@ -241,11 +241,6 @@ a:visited {
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
-ol li {
-	background-color: #FFF4EF;
-	float: none;
-	list-style:circle;
-}
 
 .aboutfooter {
 	background-image:url()
@@ -318,7 +313,7 @@ ol li {
   font-size: 16px;
 }
 
-.resume {
+.resume, .cv {
 	width: 90%;
 	margin: 0 auto;
 	padding: 2%;
@@ -332,6 +327,14 @@ ol li {
 	background-color:white;
 }
 
+.cv ol li {
+	float: none;
+	padding: 5px;
+	list-style: none;
+	list-style-position:inside;
+	background-color:white;
+}
+
 h2 {
 	font-size: 18px;
 	font-weight:100;
@@ -340,7 +343,7 @@ h2 {
 }
 
 h3 {
-	background-color:#FFF4EF;
+	background-color:white;
 	height:30px;
 	font-family: Futura, Avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color:#0b0638;
@@ -365,27 +368,12 @@ blockquote {
 }
 
 
-section#education {
+section#education, section#skills, section#experience, section#group, section#conference {
 	
 	text-align:left;
 	text-indent:2em;
-	background-color:white;
-}
-
-section#experience {
-	
-	text-align:left;
-	text-indent: 2em;
 	list-style:inside;
 	background-color:white;
-
-}
-
-section#skills {
-	
-	text-align:left;
-	background-color:white;
-	text-indent: 2em;
 }
 
 figcaption {
