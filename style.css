@@ -269,7 +269,7 @@ a:visited {
 }
 
 .contactaside {
-	background-color: #FFF4EF;
+	background-color:white;
 	float: none;
 	text-align: center;
 	font-size: 85%;
@@ -281,7 +281,7 @@ a:visited {
 
 .portfoliogallery {
 	width: 80%;
-	margin: 5% auto auto 8%;
+	margin: 5%;
 	}
 	
 .portfoliofooter {
