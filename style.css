@@ -73,7 +73,7 @@ h1 {
 
 html {
 	background-color: white;
-	font-family: avenir, futura, avant garde;
+	font-family: avenir, futura, avant garde, sans-serif;
 }
 
 header {
@@ -81,7 +81,7 @@ header {
 	font-size:50px; 
 	margin-left: 5%;
 	text-align: left;
-	font-family: futura, avant garde, avenir;
+	font-family: avenir, futura, Gotham, Helvetica, Arial, sans-serif;
 }
 
 #container {
