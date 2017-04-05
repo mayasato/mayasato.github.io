@@ -212,7 +212,7 @@ a:hover {
 	}
 
 
-.aboutsection {
+.aboutsection, .aboutstatement {
 	background-color: white;
 	float: left;
 	text-align: left;
